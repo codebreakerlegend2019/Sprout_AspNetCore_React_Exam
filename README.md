@@ -1,4 +1,4 @@
-# Sprout_AspNetCore_React_Exam# Sprout Exam Entry from Joshua D. Siuagan
+# Sprout_AspNetCore_React_Exam Entry from Joshua D. Siuagan
 
 ## Things I have changed so far:
 
@@ -23,3 +23,6 @@
 
 
 # Enjoy!!
+
+
+## You can contact me via email: "joshuasiuagan0406@gmail.com" for more questions.
